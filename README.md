@@ -153,7 +153,7 @@ Revenue-Loss-Analysis/
 │
 ├── README.md
 ├── SQL/
-│   ├── new project one of 22.sql
+│   ├── business_analysis_queries.sql
 │
 ├── Dashboard/
 │   ├── Revenue_Loss_Dashboard.pbix
