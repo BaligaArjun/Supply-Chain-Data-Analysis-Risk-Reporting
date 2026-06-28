@@ -1,9 +1,5 @@
 Customer Acquisition bottleneck Analysis & Warehouse Utilization Optimization.
 
----
-Summary 
-An end-to-end business analysis project that investigates declining customer acquisition by analyzing marketing performance, customer behavior, and warehouse operations using SQL and Power BI.
-
 Business Problem
 
 A retail company generating approximately ₹110.29 million in annual revenue reported an unexpected slowdown in customer acquisition. Although the business remained profitable, it acquired only 2 new customers during the current month.
