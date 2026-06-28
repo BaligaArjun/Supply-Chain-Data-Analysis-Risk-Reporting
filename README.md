@@ -1,4 +1,8 @@
-Revenue Decline Investigation & Warehouse Utilization Analysis
+Customer Acquisition bottleneck Analysis & Warehouse Utilization Optimization.
+
+---
+Summary 
+An end-to-end business analysis project that investigates declining customer acquisition by analyzing marketing performance, customer behavior, and warehouse operations using SQL and Power BI.
 
 Business Problem
 
@@ -182,6 +186,13 @@ Open the Power BI (project 08.pbix) file to interact with the dashboard and expl
 Step 5 — Review the Analysis
 
 Read the Business Findings and Recommendations sections in this README for the complete analysis.
+
+---
+# # Tools Used 
+- MY SQL
+- Power BI
+- Python (faker)
+- Excel
 
 ---
 
