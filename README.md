@@ -156,7 +156,7 @@ Revenue-Loss-Analysis/
 │   ├── business_analysis_queries.sql
 │
 ├── Dashboard/
-│   ├── Revenue_Loss_Dashboard.pbix
+│   ├──  Customer_acquisition_bottleneck_analysis.pbix
 │   
 └── Images/
     ├── customer_analysis
