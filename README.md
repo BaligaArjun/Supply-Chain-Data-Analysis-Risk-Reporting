@@ -133,17 +133,78 @@ If implemented, these recommendations could:
 - Improve customer acquisition.
 - Support long-term revenue growth through operational improvements.
 Page 1 = Executive Sales Overview
-Theme: "How are we performing overall?"
+Theme: customer_analysis
 <img width="1422" height="797" alt="Image" src="https://github.com/user-attachments/assets/9bbb5033-decf-4135-bc34-183a31385116" />
 Page 2 = Customer Loyalty & behavior
-Theme: "Who are our customers, and how engaged are they?"
+Theme: marketing_performance
 <img width="1428" height="792" alt="Image" src="https://github.com/user-attachments/assets/51689c4f-8e3a-4d50-9b01-0a299f31d76f" />
 Page 3 = Marketing Performance & ROI
-Theme: "How effective are our campaigns and channels?"
+Theme: warehouse_utilization
 <img width="1433" height="796" alt="Image" src="https://github.com/user-attachments/assets/6477b16d-1ebb-4f20-ac5b-f88bcd6640bf" />
 
 
+📁 Project Structure
 
+Revenue-Loss-Analysis/
+│
+├── README.md
+├── SQL/
+│   ├── new project one of 22.sql
+│
+├── Dashboard/
+│   ├── Revenue_Loss_Dashboard.pbix
+│   
+└── Images/
+    ├── customer_analysis
+    ├── marketing_performance.png
+    └── warehouse_utilization.png
+
+---
+
+▶️ How to Run
+
+Step 1 — Download the Repository
+
+Clone the repository or download it as a ZIP file.
+
+Step 2 — Open the Dataset
+
+Open the dataset from the Dataset folder.
+
+Step 3 — Execute the SQL Scripts
+
+Run the SQL files in your preferred SQL environment to perform data cleaning.
+
+Step 4 — Explore the Dashboard
+
+Open the Power BI (project 08.pbix) file to interact with the dashboard and explore the findings.
+
+Step 5 — Review the Analysis
+
+Read the Business Findings and Recommendations sections in this README for the complete analysis.
+
+---
+
+👨‍💻 Author
+
+Arjun Baliga
+
+Aspiring Business Analyst | Data Analyst
+
+Skills
+
+- SQL
+- Python
+- Power BI
+- Excel
+
+GitHub
+
+https://github.com/BaligaArjun
+
+LinkedIn
+
+((https://www.linkedin.com/in/arjunprakashbaliga))
 
 
 
